@@ -1,5 +1,4 @@
 #  altor : Helian Martins
-
 import banelib
 import os
 def secpy():
@@ -14,7 +13,7 @@ def secpy():
 	print("         # #      #      #####    #   ")
 	print("    #    # #      #    # #        #   ")
 	print("     ####  ######  ####  #        #   ")
-	print(" =====================================")
+	print(" ============Helian Martins===========")
 	print("     scan  Vulnerabilities: [ 1]")
 	print("     Dos/DDos:              [ 2]")
 	print("     sair:                  [ 3]")
