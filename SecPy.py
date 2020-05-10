@@ -1,3 +1,5 @@
+#  altor : Helian Martins
+
 import banelib
 import os
 def secpy():
